@@ -1,0 +1,13 @@
+{
+  "name": "retail-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Retail Management System",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.0"
+  }
+}
